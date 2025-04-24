@@ -55,9 +55,8 @@ An AI-powered decentralized identity verification system combining IoT, Blockcha
 
 - 📧 Email: [aks.gecv27@gmail.com](mailto:aks.gecv27@gmail.com)  
 - 🌐 Portfolio: [github.com/animesh713331](https://github.com/animesh713331)  
-- 🔗 LinkedIn: [linkedin.com/in/animesh-kumar-singh](#) *(optional, if applicable)*  
-- 🐦 Twitter: [@animesh_singh](#) *(optional, if applicable)*
-
+- 🔗 LinkedIn:  https://www.linkedin.com/in/animeshkrsingh 
+-  X  X: https://x.com/animesh713331
 ---
 
 *Let's build the future, one commit at a time 🚀*
