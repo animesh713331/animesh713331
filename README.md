@@ -1,26 +1,9 @@
 # 👋 Hi there, I'm Animesh Kumar Singh
 
-🎓 A Computer Science (IoT) undergrad | 💡 Tech Explorer | 🛠️ Full-Stack & Web3 Developer  
+🎓 A Computer Science (IoT) undergrad | 💡 Exploring GenAI & ML | 🛠️ Full-Stack & Web3 Developer  
 I love turning ideas into reality with code—whether it’s smart contracts, scalable web apps, or real-time IoT dashboards.
 
 ---
-
-## 🚀 Projects I'm Working On
-
-### 🔗 [DeFreeLance](#)
-A decentralized freelance marketplace powered by Web3, AI job-matching & smart contracts.
-
-- **Tech Stack:** Solidity, IPFS, React, Node.js, MongoDB, Web3
-- **Features:** Decentralized freelancing platform, Secure job matching using AI, Transparent transactions via blockchain
-
-### 🧠 [DeID](#)
-An AI-powered decentralized identity verification system combining IoT, Blockchain & Full Stack Dev.
-
-- **Tech Stack:** Python, React, MongoDB, IoT, Blockchain (Smart Contracts)
-- **Features:** Secure identity verification, Blockchain-based data integrity, Real-time IoT data integration
-
----
-
 ## 🛠 Tech Stack
 
 **Languages:**  
