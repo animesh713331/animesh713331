@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Animesh+Kumar+Singh+%F0%9F%91%8B;CSE+(IoT)+Undergrad+%7C+GEC+Vaishali;ML+%7C+Data+Science+%7C+IoT+%7C+Web3+%7C+Full-Stack;Building+future-ready+solutions+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Animesh+Kumar+Singh+%F0%9F%91%8B;CSE+(IoT)+Undergrad+-+GEC+Vaishali;ML%2C+Data+Science%2C+IoT%2C+Web3%2C+Full-Stack;Building+future-ready+solutions;One+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=animesh713331&label=Profile+views&color=blueviolet&style=flat-square" alt="profile views" />
