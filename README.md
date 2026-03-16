@@ -26,6 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 🌐 Backend & Full-Stack
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -38,12 +39,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
-
-### 📊 Data & Tools (Working Knowledge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
+![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
 ---
 
 ## 📌 Featured Projects
@@ -72,7 +68,7 @@
 
 ## 🏆 Highlights
 
-- 🥇 **Winner — Internal Hackathon (SIH 2025)**  
+- 🥇 **Winner — Internal Hackathon (SIH 2025 @GEC Vaishali)**  
 - 🧪 **ML Research Intern — BIT Sindri**  
 - 🥉 **Web Wizard Competition — Vision 25**  
 - 📚 Certified in **Cybersecurity Essentials, C++, Python**
