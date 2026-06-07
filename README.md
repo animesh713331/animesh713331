@@ -11,8 +11,8 @@
 ## 🚀 About Me
 
 🎓 **B.Tech CSE (IoT)** student at **Government Engineering College, Vaishali (Batch ’27)**  
-💻 Exploring **Backend Engineering, Full-Stack Development, and Web3**  
-🧠 Strong fundamentals in **JavaScript, Python, Data Structures & CS basics**  
+💻 Exploring **Full-Stack Development, and Web3 & IoT Development**  
+🧠 Strong fundamentals in **JavaScript, Python, Data Structures & Core CS**  
 🛠️ I enjoy building **end-to-end projects** — from APIs to UI to smart contracts  
 🌱 Currently focused on **backend depth, clean architecture, and production-ready code**
 
@@ -67,7 +67,8 @@
 ---
 
 ## 🏆 Highlights
-
+- 🧪 **Research Intern - Rajiv Gandhi Insititute of Petroleum Technology  Jais** 
+- 🥇 **Winner — English Essay Writing Competition (Umang 2026 @GEC Vaishali)** 
 - 🥇 **Winner — Internal Hackathon (SIH 2025 @GEC Vaishali)**  
 - 🧪 **ML Research Intern — BIT Sindri**  
 - 🥉 **Web Wizard Competition — Vision 25**  
@@ -79,7 +80,7 @@
 
 - 🌐 **Portfolio**: https://animeshkumarsingh.vercel.app  
 - 💼 **LinkedIn**: https://linkedin.com/in/animeshkrsingh  
-- 📧 **Email**: aks.gecv27@gmail.com
+- 📧 **Email**: animesh23iot01.gecv@gmail.com
 
 ---
 
