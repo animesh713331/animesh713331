@@ -121,13 +121,11 @@ Blockchain-based academic record verification and student management platform.
 ---
 
 ## 🏆 Achievements & Experience
-.
-- 🔬 **Research Intern** – RGIPT Jais | Radar-based Sensing.
+- 🔬 **Research Intern** – RGIPT Jais | Radar-based & WIFI CSI Sensing.
 - 🧪 **ML Research Intern** – BIT Sindri.
 - 🥇 **Winner** – Internal Smart India Hackathon 2025, GEC Vaishali.
 - 🥉 **3rd Position** – Web Wizard, Vision 2025.
-- 🏅 **4th Position** – FOSSHack 2026.
-- 🥇 **Winner** – English Essay Writing Competition, Umang 2026.
+- 🥇 **Winner** – English Essay Writing Competition, Umang 2026, GEC Vaishali
 
 ---
 
