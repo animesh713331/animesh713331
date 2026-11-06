@@ -121,8 +121,7 @@ Blockchain-based academic record verification and student management platform.
 ---
 
 ## 🏆 Achievements & Experience
-
-- 🔬 **Research Intern** – IIIT Dharwad | Embedded AI & Robotics.
+.
 - 🔬 **Research Intern** – RGIPT Jais | Radar-based Sensing.
 - 🧪 **ML Research Intern** – BIT Sindri.
 - 🥇 **Winner** – Internal Smart India Hackathon 2025, GEC Vaishali.
